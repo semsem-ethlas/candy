@@ -1,17 +1,5 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "description": "json web key",
-  "type": "object",
-  "required": ["kty", "e", "n"],
-  "properties": {
-    "kty": {
-      "type": "string"
-    },
-    "e": {
-      "type": "string"
-    },
-    "n": {
-      "type": "string"
-    }
-  }
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvhvg4jht5cfbQ2Z17B4C32PUceQjuBbl6JFHT8guaXXjyRyjHBRsCKvJjKdSqYhZPfiTlvCv1PpBBgWeQpleWd4xnpwB7PfbkTgp8zMTVGtOc3dvXG6TpmOEAIgoimmLw/4MT75dXBGOUweJRO9MOHF8CHBkf1BO/KABaCcdkkX/WT2oYl0fzPCNPm2awDwePp84kyz5EthBZKGcelnmTHUSO+ms4rDyMNxiPKHsRzKioRuCAZSMfeoBraUzG42Mg3jFT5whOuctZANRi06ZuhgJJxX/Tt3hBOLj13LU4mzG5HIBrsfmLjdIp5mkEVvo72Ds6KzO7okNc2ItopO8LQIDAQAB"
 }
